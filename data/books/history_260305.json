@@ -1,0 +1,146 @@
+[
+  {
+    "id": "059cffc8f591",
+    "title": "Sapiens: A Brief History of Humankind",
+    "price_gbp": 54.23,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+    "price_sek": 704.99
+  },
+  {
+    "id": "2bf9531777c8",
+    "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+    "price_gbp": 25.52,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html",
+    "price_sek": 331.76
+  },
+  {
+    "id": "4cae59eb01ca",
+    "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+    "price_gbp": 19.73,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html",
+    "price_sek": 256.49
+  },
+  {
+    "id": "5b8223b09634",
+    "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+    "price_gbp": 36.28,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html",
+    "price_sek": 471.64
+  },
+  {
+    "id": "21fd68fc2b6a",
+    "title": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+    "price_gbp": 59.64,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html",
+    "price_sek": 775.32
+  },
+  {
+    "id": "9aa419042224",
+    "title": "Zealot: The Life and Times of Jesus of Nazareth",
+    "price_gbp": 24.7,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html",
+    "price_sek": 321.1
+  },
+  {
+    "id": "26be5f95f7d6",
+    "title": "A Distant Mirror: The Calamitous 14th Century",
+    "price_gbp": 14.58,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/a-distant-mirror-the-calamitous-14th-century_652/index.html",
+    "price_sek": 189.54
+  },
+  {
+    "id": "4f269d3a748b",
+    "title": "1491: New Revelations of the Americas Before Columbus",
+    "price_gbp": 21.8,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/1491-new-revelations-of-the-americas-before-columbus_650/index.html",
+    "price_sek": 283.4
+  },
+  {
+    "id": "da8b8cfc5c9d",
+    "title": "Brilliant Beacons: A History of the American Lighthouse",
+    "price_gbp": 11.45,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html",
+    "price_sek": 148.85
+  },
+  {
+    "id": "6262d57ed6b5",
+    "title": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+    "price_gbp": 44.48,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html",
+    "price_sek": 578.24
+  },
+  {
+    "id": "26ef5de31b8b",
+    "title": "A Short History of Nearly Everything",
+    "price_gbp": 52.4,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/a-short-history-of-nearly-everything_457/index.html",
+    "price_sek": 681.2
+  },
+  {
+    "id": "3a6b3876c07a",
+    "title": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+    "price_gbp": 39.67,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html",
+    "price_sek": 515.71
+  },
+  {
+    "id": "a99fa62cbcf7",
+    "title": "Catherine the Great: Portrait of a Woman",
+    "price_gbp": 58.55,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/catherine-the-great-portrait-of-a-woman_424/index.html",
+    "price_sek": 761.15
+  },
+  {
+    "id": "4d56d39ed855",
+    "title": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+    "price_gbp": 42.91,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html",
+    "price_sek": 557.83
+  },
+  {
+    "id": "4c600563e0c0",
+    "title": "The Hiding Place",
+    "price_gbp": 55.91,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/the-hiding-place_406/index.html",
+    "price_sek": 726.83
+  },
+  {
+    "id": "8ff0e2a8886a",
+    "title": "America's War for the Greater Middle East: A Military History",
+    "price_gbp": 51.22,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/americas-war-for-the-greater-middle-east-a-military-history_361/index.html",
+    "price_sek": 665.86
+  },
+  {
+    "id": "09f38655853c",
+    "title": "The Guns of August",
+    "price_gbp": 14.54,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/the-guns-of-august_254/index.html",
+    "price_sek": 189.02
+  },
+  {
+    "id": "2f3c0a857447",
+    "title": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+    "price_gbp": 43.7,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html",
+    "price_sek": 568.1
+  }
+]

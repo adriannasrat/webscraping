@@ -1,0 +1,258 @@
+[
+  {
+    "id": "2c00f9f8db2f",
+    "title": "Sharp Objects",
+    "price_gbp": 47.82,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+    "price_sek": 621.66
+  },
+  {
+    "id": "2949142ba3e1",
+    "title": "In a Dark, Dark Wood",
+    "price_gbp": 19.63,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+    "price_sek": 255.19
+  },
+  {
+    "id": "50c5b1ccb9a8",
+    "title": "The Past Never Ends",
+    "price_gbp": 56.5,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+    "price_sek": 734.5
+  },
+  {
+    "id": "d0853ee3fa24",
+    "title": "A Murder in Time",
+    "price_gbp": 16.64,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html",
+    "price_sek": 216.32
+  },
+  {
+    "id": "37db92b48276",
+    "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "price_gbp": 44.1,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html",
+    "price_sek": 573.3
+  },
+  {
+    "id": "6ed4c5fe3c16",
+    "title": "The Last Mile (Amos Decker #2)",
+    "price_gbp": 54.21,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+    "price_sek": 704.73
+  },
+  {
+    "id": "375b69bb56d1",
+    "title": "That Darkness (Gardiner and Renner #1)",
+    "price_gbp": 13.92,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html",
+    "price_sek": 180.96
+  },
+  {
+    "id": "553883369af7",
+    "title": "Tastes Like Fear (DI Marnie Rome #3)",
+    "price_gbp": 10.69,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html",
+    "price_sek": 138.97
+  },
+  {
+    "id": "afed950be10b",
+    "title": "A Time of Torment (Charlie Parker #14)",
+    "price_gbp": 48.35,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html",
+    "price_sek": 628.55
+  },
+  {
+    "id": "50d92e782f4d",
+    "title": "A Study in Scarlet (Sherlock Holmes #1)",
+    "price_gbp": 16.73,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html",
+    "price_sek": 217.49
+  },
+  {
+    "id": "6e7d99eb5f25",
+    "title": "Poisonous (Max Revere Novels #3)",
+    "price_gbp": 26.8,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html",
+    "price_sek": 348.4
+  },
+  {
+    "id": "219ad882fd7f",
+    "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+    "price_gbp": 54.36,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html",
+    "price_sek": 706.68
+  },
+  {
+    "id": "e981839c66a9",
+    "title": "Most Wanted",
+    "price_gbp": 35.28,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/most-wanted_623/index.html",
+    "price_sek": 458.64
+  },
+  {
+    "id": "5a6177880c48",
+    "title": "Hide Away (Eve Duncan #20)",
+    "price_gbp": 11.84,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html",
+    "price_sek": 153.92
+  },
+  {
+    "id": "0ef6e6c31d67",
+    "title": "Boar Island (Anna Pigeon #19)",
+    "price_gbp": 59.48,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+    "price_sek": 773.24
+  },
+  {
+    "id": "96d837f2b3cd",
+    "title": "The Widow",
+    "price_gbp": 27.26,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/the-widow_609/index.html",
+    "price_sek": 354.38
+  },
+  {
+    "id": "28bc393365d8",
+    "title": "Playing with Fire",
+    "price_gbp": 13.71,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html",
+    "price_sek": 178.23
+  },
+  {
+    "id": "80a1e960c171",
+    "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "price_gbp": 25.37,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html",
+    "price_sek": 329.81
+  },
+  {
+    "id": "acdcadf5f3e4",
+    "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+    "price_gbp": 52.3,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html",
+    "price_sek": 679.9
+  },
+  {
+    "id": "93fafc1d7c2a",
+    "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "price_gbp": 20.89,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html",
+    "price_sek": 271.57
+  },
+  {
+    "id": "ec143920ee35",
+    "title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+    "price_gbp": 24.8,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html",
+    "price_sek": 322.4
+  },
+  {
+    "id": "e506ba702e02",
+    "title": "In the Woods (Dublin Murder Squad #1)",
+    "price_gbp": 38.38,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html",
+    "price_sek": 498.94
+  },
+  {
+    "id": "3501ffc942cb",
+    "title": "The Silkworm (Cormoran Strike #2)",
+    "price_gbp": 23.05,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html",
+    "price_sek": 299.65
+  },
+  {
+    "id": "ada95b957d57",
+    "title": "The Exiled",
+    "price_gbp": 43.45,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/the-exiled_247/index.html",
+    "price_sek": 564.85
+  },
+  {
+    "id": "bebbffed0e1f",
+    "title": "The Cuckoo's Calling (Cormoran Strike #1)",
+    "price_gbp": 19.21,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html",
+    "price_sek": 249.73
+  },
+  {
+    "id": "9c93ed0c56c7",
+    "title": "Extreme Prey (Lucas Davenport #26)",
+    "price_gbp": 25.4,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html",
+    "price_sek": 330.2
+  },
+  {
+    "id": "2476fbc18234",
+    "title": "Career of Evil (Cormoran Strike #3)",
+    "price_gbp": 24.72,
+    "rating": "Two",
+    "product_url": "https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html",
+    "price_sek": 321.36
+  },
+  {
+    "id": "4ed173667042",
+    "title": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+    "price_gbp": 57.7,
+    "rating": "Four",
+    "product_url": "https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html",
+    "price_sek": 750.1
+  },
+  {
+    "id": "8a81cd433a74",
+    "title": "The Girl You Lost",
+    "price_gbp": 12.29,
+    "rating": "Five",
+    "product_url": "https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html",
+    "price_sek": 159.77
+  },
+  {
+    "id": "97166d640be7",
+    "title": "The Girl In The Ice (DCI Erika Foster #1)",
+    "price_gbp": 15.85,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html",
+    "price_sek": 206.05
+  },
+  {
+    "id": "64c53e668b5c",
+    "title": "Blood Defense (Samantha Brinkman #1)",
+    "price_gbp": 20.3,
+    "rating": "Three",
+    "product_url": "https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html",
+    "price_sek": 263.9
+  },
+  {
+    "id": "ae941d8b2ffd",
+    "title": "1st to Die (Women's Murder Club #1)",
+    "price_gbp": 53.98,
+    "rating": "One",
+    "product_url": "https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html",
+    "price_sek": 701.74
+  }
+]
